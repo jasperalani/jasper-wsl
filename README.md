@@ -39,6 +39,7 @@ helpc
 ```
 
 ## To do
+- Check if git account vars are already set and if they have to be replaced
 - Add support for multiple hugo projects
 - Refactor project out of .bashrc and into its own directory
 - Maybe this is a development project manager, look up existing project managers
